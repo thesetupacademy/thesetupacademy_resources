@@ -1,0 +1,7 @@
+Steps to integrate Ollama with VS Code
+1. Install Ollama.
+2. Run any LLM model using Ollama.
+3. Install Ollama's official VS Code extension.
+4. Open Chat Section of VS Code.
+5. Under Models tab add Ollama's currently running LLM model.
+6. Open code file in VS Code, chat with your code, make changes to your code.
