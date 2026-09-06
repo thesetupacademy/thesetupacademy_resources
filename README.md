@@ -4,7 +4,8 @@ Resources and source code from The Setup Academy - practical AI projects, tutori
 # Social Media Handles
 1. YouTube: https://youtube.com/@thesetupacademy?si=keV3gHQEE1gnQfIf
 2. Instagram: https://www.instagram.com/thesetupacademy?igsh=MXAxbTdmMjM2ODZqcQ%3D%3D
-3. Threads: https://www.threads.com/@thesetupacademy
+3. Facebook: https://www.facebook.com/people/The-Setup-Academy/61594354100027/
+4. Threads: https://www.threads.com/@thesetupacademy
 
 
 ## License & Copyright
