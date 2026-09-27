@@ -1,0 +1,11 @@
+# YouTube Video
+
+1. https://youtu.be/lOgqueIfpMc?si=qXXHzw__lzRfhID1
+
+# YouTube Shorts
+
+1. https://youtube.com/shorts/2T5LMD1xFbA?si=tNRTXPtFFQrF1xGY
+
+# Instagram
+
+1. https://www.instagram.com/reel/DcxaCuXMign/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
