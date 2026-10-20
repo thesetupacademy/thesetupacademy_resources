@@ -80,7 +80,7 @@ Get-ChildItem "F:\training_videos\llama.cpp--b11429" -Filter "llama-cli.exe" -Re
 Verify the version using the actual executable path:
 
 ``` powershell
-& "F:\training_videos\llama.cpp--b11429\bin\llama-cli.exe" --version
+& "F:\training_videos\llama.cpp--b11429\llama-cli.exe" --version
 ```
 
 The path may differ depending on how the archive extracts.
@@ -109,7 +109,7 @@ Test-Path "F:\training_videos\models\SmolLM2-135M-Instruct-Q2_K.gguf"
 Replace the executable path if needed:
 
 ``` powershell
-& "F:\training_videos\llama.cpp--b11429\bin\llama-cli.exe" -m "F:\training_videos\models\SmolLM2-135M-Instruct-Q2_K.gguf" -t 4 -c 1024 -p "Say hello in one sentence." -n 32
+& "F:\training_videos\llama.cpp--b11429\llama-cli.exe" -m "F:\training_videos\models\SmolLM2-135M-Instruct-Q2_K.gguf" -t 4 -c 1024 -p "Say hello in one sentence." -n 32
 ```
 
 Continue only after it generates a response.
@@ -149,7 +149,7 @@ If forwarding is stale:
 Use the actual path to `llama-cli.exe`:
 
 ``` powershell
-& "F:\training_videos\llama.cpp-b11429\bin\llama-cli.exe" -m "F:\training_videos\models\SmolLM2-135M-Instruct-Q2_K.gguf" --rpc 127.0.0.1:50052 -ngl 99 -t 4 -c 1024 -p "Say hello in one sentence." -n 32 --verbose
+& "F:\training_videos\llama.cpp-b11429\llama-cli.exe" -m "F:\training_videos\models\SmolLM2-135M-Instruct-Q2_K.gguf" --rpc 127.0.0.1:50052 -ngl 99 -t 4 -c 1024 -p "Say hello in one sentence." -n 32 --verbose
 ```
 
 Confirm that text is generated and PC logs show RPC/device offloading.
