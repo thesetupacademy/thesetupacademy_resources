@@ -1,0 +1,10 @@
+name: New MCP server
+version: 0.0.1
+schema: v1
+
+mcpServers:
+  - name: The Setup Academy MCP Server
+    command: F:\training_videos\raw_videos\16_llama_cpp_mcp_skills\.venv\Scripts\python.exe
+    args:
+      - F:\training_videos\raw_videos\16_llama_cpp_mcp_skills\simple_mcp.py
+    env: {}
